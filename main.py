@@ -3,8 +3,8 @@ import sys
 
 websites = [
     'stackoverflow.com',
-    'staclexchange.com',
-    'medium.com'
+    'stackexchange.com',
+    'geeksforgeeks.org'
 ]
 
 url = "https://www.google.com/search?q="
