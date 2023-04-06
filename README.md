@@ -27,3 +27,6 @@
 - Turn on powershell or Terminal 
 - on windows - type "search" in powershell and prompt will ask you about your query
 - on macos - type "search YOUR_QUERY" in terminal, should  work
+
+<img width="695" alt="image" src="https://user-images.githubusercontent.com/107316656/230400990-118340b1-d55f-409d-acbd-adcbee23eb03.png">
+<img width="1029" alt="image" src="https://user-images.githubusercontent.com/107316656/230401176-17a153da-4f0c-454b-a868-ed3678f98d4f.png">
