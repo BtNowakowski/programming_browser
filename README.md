@@ -1,5 +1,6 @@
 # programming_search
 
+## It would be handy to be able to search using terminal, don’t you think?
 ## A basic Python command prompt script that utilizes the webbrowser module to refine search results to only include websites related to programming
 
 ### Configuration on Windows
