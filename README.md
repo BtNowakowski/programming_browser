@@ -15,9 +15,12 @@
 - You are good to go
 
 ### Configuration on MacOS
-- open terminal
-- alias search='python3 ~/PATH_TO_PYTHON_SCRIPT/main.py'
-- source ~/.bashrc
+- Open terminal
+- Vim ~/.bashrc
+- Alias search='python3 ~/PATH_TO_PYTHON_SCRIPT/main.py'
+- Save and quit
+- Source ~/.bashrc
+- You are good to go
 
 ### How to use:
 - Turn on powershell or Terminal 
