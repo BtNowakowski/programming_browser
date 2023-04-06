@@ -17,6 +17,7 @@
 ### Configuration on MacOS
 - Open terminal
 - Vim ~/.bashrc
+- In Vim:
 - Alias search='python3 ~/PATH_TO_PYTHON_SCRIPT/main.py'
 - Save and quit
 - Source ~/.bashrc
