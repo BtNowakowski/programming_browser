@@ -16,11 +16,11 @@
 
 ### Configuration on MacOS
 - Open terminal
-- Vim ~/.bashrc
-- In Vim:
+- nano ~/.zshrc
+- In nano:
 - Alias search='python3 ~/PATH_TO_PYTHON_SCRIPT/main.py'
 - Save and quit
-- Source ~/.bashrc
+- Source ~/.zshrc
 - You are good to go
 
 ### How to use:
